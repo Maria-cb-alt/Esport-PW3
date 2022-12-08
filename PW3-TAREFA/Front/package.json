@@ -11,7 +11,7 @@
     "EJS",
     "Front"
   ],
-  "author": "Gabriel S Malheiro",
+  "author": "Maria Carolinna Balassoni",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.0",
